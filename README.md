@@ -12,3 +12,5 @@ I'm interested in Machine Learning, Data Science, Deep Learning, Computer Vision
 - 👯 Looking for an Internship or Opportunity.
 
 Thanks a lot! ❤️
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SagarJiyani3010&theme=nightowl&show_icons=true)
