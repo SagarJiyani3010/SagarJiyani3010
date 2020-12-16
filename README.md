@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+
 ### I'm Sagar Jiyani
 
 [![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Sagar-blue)](https://www.linkedin.com/in/sagar-jiyani-916613144/) 
