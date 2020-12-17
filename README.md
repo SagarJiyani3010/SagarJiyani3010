@@ -2,6 +2,8 @@
 
 ### I'm Sagar Jiyani
 
+![GitHub search hit counter](https://img.shields.io/github/search/SagarJiyani3010/SagarJiyani3010/View?color=green&label=View%20Count&logo=appveyor&logoColor=green)
+
 [![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Sagar-blue)](https://www.linkedin.com/in/sagar-jiyani-916613144/) 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Sagar-yellowgreen)](https://www.kaggle.com/sagarjiyani) 
 [![Website Bedge](https://img.shields.io/static/v1?message=Website&color=lightblue)](https://sagarjiyani3010.github.io/)
