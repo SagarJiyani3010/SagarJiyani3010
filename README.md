@@ -2,7 +2,7 @@
 
 ### I'm Sagar Jiyani
 
-![GitHub search hit counter](https://img.shields.io/github/search/SagarJiyani3010/SagarJiyani3010/View?color=green&label=View%20Count&logo=appveyor&logoColor=green)
+![](https://komarev.com/ghpvc/?username=SagarJiyani3010&label=View+Counter)
 
 [![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Sagar-blue)](https://www.linkedin.com/in/sagar-jiyani-916613144/) 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Sagar-yellowgreen)](https://www.kaggle.com/sagarjiyani) 
